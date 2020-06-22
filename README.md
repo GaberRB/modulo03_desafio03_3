@@ -27,7 +27,7 @@ Exemplo:
 
 <h3>Na Pratica</h3>
 
-<img src="https://user-images.githubusercontent.com/28874479/85216703-4d18f380-b35e-11ea-99d2-733222002766.gif"/>
+<img src="https://user-images.githubusercontent.com/28874479/85301553-59946d80-b47e-11ea-945d-dbb3dfa4c8aa.gif"/>
 
 Tecnologias utilizadas :
 
