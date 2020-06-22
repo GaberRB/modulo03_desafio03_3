@@ -17,7 +17,7 @@ Ps: Transição do background, gif embutindo o estilo direto na DOM com Javascri
 <code> npm start </code>
       <p> No navegador : http://localhost:5000/ </p>
  
-Exemplo: 
+Exemplo Loop com Nunjucks, buscando um array de um objeto dentro do back-end: 
 
 <code> {% for stack in about.stacks %}<br>
       < li > {{stack.name}}</ li ><br>
